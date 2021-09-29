@@ -1,3 +1,8 @@
+# Script elaborado por la Maestra Perla Marlene Viera Gonzalez
+# Modificado por: Jairo Santana García
+# Keila Sofia Caballero Ramos
+# Marco Arturo Cantu Vivanco
+# Ernesto Jesus Cano Arenas
 # Importamos los modulos necesarios
 import argparse
 import socket

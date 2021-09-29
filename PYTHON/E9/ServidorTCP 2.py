@@ -1,3 +1,8 @@
+# Script elaborado por la Maestra Perla Marlene Viera Gonzalez
+# Modificado por: Jairo Santana García
+# Keila Sofia Caballero Ramos
+# Marco Arturo Cantu Vivanco
+# Ernesto Jesus Cano Arenas
 # Primero importamos los modulos necesarios
 import socket
 from cryptography.fernet import Fernet
