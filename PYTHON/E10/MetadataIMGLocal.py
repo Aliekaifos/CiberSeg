@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+# Keila Sofía Caballero Ramos
 
 from PIL.ExifTags import TAGS, GPSTAGS
 from PIL import Image
