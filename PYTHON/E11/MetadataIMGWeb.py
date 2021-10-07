@@ -1,4 +1,7 @@
 # -*- encoding: utf-8 -*-
+# GILBERTO EDUARDO GALVÁN GARCÍA
+# MARCO ARTURO CANTÚ VIVANCO
+# KEILA SOFÍA CABALLERO RAMOS
 
 from PIL.ExifTags import TAGS, GPSTAGS
 from PIL import Image
