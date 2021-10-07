@@ -11,7 +11,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 import argparse
 
-#https://www.uanl.mx/eventos/
+
 parser = argparse.ArgumentParser()  
 parser.add_argument("-url", dest='url', help="Ingresa la url de donde quieres obtener las imagenes")
 params = parser.parse_args()  
