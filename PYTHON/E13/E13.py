@@ -5,8 +5,7 @@
 import subprocess
 
 pag = input("Ingresa la página web: ")
-comando = "nmap.exe " + pag + " | Out-File -FilePath 'Nmap.txt' "
 #print(comando)
-lineaPS = "powershell -Executionpolicy ByPass -Command " + comando
-runningProcesses = subprocess.check_output(lineaPS)
+comando = "powershell -Executionpolicy ByPass -File NmapE13.ps1 -website " + pag
+runningProcesses = subprocess.check_output(comando)
 print(runningProcesses.decode())
